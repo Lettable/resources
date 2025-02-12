@@ -122,4 +122,4 @@ pasteObject.signature = signature;
 
 const finalEncoded = Buffer.from(JSON.stringify(pasteObject), "utf8").toString("base64");
 
-console.log(host + finalEncoded);
+console.log('Here\'s Your Paste:', host + finalEncoded);
