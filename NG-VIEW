@@ -5,7 +5,7 @@ import time
 from colorama import Fore
 
 # Constants
-N_THREADS = 400  # Number of threads
+N_THREADS = 500  # Number of threads
 PROXY_RETRY_ATTEMPTS = 3  # Number of retry attempts for proxies
 BOT_TOKEN = '6944515572:AAGJD7_jnGHirJorr71cNUQMoCJo4BLV5kA'  # Your bot token
 
